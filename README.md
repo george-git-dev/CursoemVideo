@@ -1,2 +1,2 @@
 # CursoemVideo
- Desafios feitos durante o curso.
+ Desafios feitos durante os cursos.
